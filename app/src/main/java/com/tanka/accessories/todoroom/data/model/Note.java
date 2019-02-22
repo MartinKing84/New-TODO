@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 2/20/19.
  */
 
 @Entity

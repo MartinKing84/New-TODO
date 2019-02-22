@@ -10,7 +10,7 @@ import com.tanka.accessories.todoroom.R;
 import com.tanka.accessories.todoroom.data.model.Note;
 
 /**
- * Created by access-tanka on 12/28/17.
+ * Created by Marcin Lowicki 2/2/19.
  */
 
 public class NoteDetail extends AppCompatActivity {

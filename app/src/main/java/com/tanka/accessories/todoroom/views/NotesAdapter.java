@@ -23,7 +23,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 1/22/19.
  */
 
 public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.ViewHolder> {

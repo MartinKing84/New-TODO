@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.util.Log;
 import android.widget.Toast;
 /**
- * Created by access-tanka on 12/31/17.
+ * Created by Marcin Lowicki 1/17/19.
  */
 
 public class AlarmReceiver extends BroadcastReceiver {

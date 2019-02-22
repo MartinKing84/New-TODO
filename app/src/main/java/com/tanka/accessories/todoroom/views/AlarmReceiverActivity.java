@@ -16,7 +16,7 @@ import com.tanka.accessories.todoroom.R;
 import java.io.IOException;
 
 /**
- * Created by access-tanka on 1/2/18.
+ * Created by Marcin Lowicki 1/2/19.
  */
 
 public class AlarmReceiverActivity extends Activity {

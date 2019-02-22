@@ -8,7 +8,7 @@ import android.content.Context;
 import com.tanka.accessories.todoroom.data.model.Note;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 2/16/19.
  */
 
 @Database(entities = {Note.class}, version = 1)

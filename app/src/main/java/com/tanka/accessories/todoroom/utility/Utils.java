@@ -23,7 +23,7 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.tanka.accessories.todoroom.R;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 1/25/19.
  */
 
 public class Utils {

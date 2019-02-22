@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
         db = AppDataBase.getDatabase(this);
 
         Bitmap bm = BitmapFactory.decodeResource(getResources(),
-                R.drawable.tanks_suited);
+                R.drawable.minions);
         bmProfile = Utils.getCircleBitmap(bm);
 
         recyclerView = findViewById(R.id.my_recycler_view);

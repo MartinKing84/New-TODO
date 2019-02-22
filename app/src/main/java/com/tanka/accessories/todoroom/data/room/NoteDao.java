@@ -11,7 +11,7 @@ import com.tanka.accessories.todoroom.data.model.Note;
 import java.util.List;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 1/12/19.
  */
 
 @Dao

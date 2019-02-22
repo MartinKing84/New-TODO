@@ -5,7 +5,7 @@ import android.arch.persistence.room.TypeConverter;
 import java.util.Date;
 
 /**
- * Created by access-tanka on 11/16/17.
+ * Created by Marcin Lowicki 1/29/19.
  */
 
 class DateConverter {
